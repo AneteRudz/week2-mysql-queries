@@ -1,0 +1,100 @@
+1. Which are the different genres?
+
+Book
+Business
+Catalogs
+Education
+Entertainment
+Finance
+Food & Drink
+Games
+Health & Fitness
+Lifestyle
+Medical
+Music
+Navigation
+News
+Photo & Video
+Productivity
+Reference
+Shopping
+Social Networking
+Sports
+Travel
+Utilities
+Weather
+
+2. Which is the genre with more apps rated?
+Social Networking	2974676
+
+3. Which is the genre with more apps?
+Games	3862
+
+4. Which is the one with less?
+Catalogs	10
+
+5. Take the 10 most rated apps.
+Facebook	2974676
+Instagram	2161558
+Clash of Clans	2130805
+Temple Run	1724546
+Pandora - Music & Radio	1126879
+Pinterest	1061624
+Bible	985920
+Candy Crush Saga	961794
+Spotify Music	878563
+Angry Birds	824451
+
+10 most rated genres:
+
+Games	52878491
+Social Networking	7598316
+Photo & Video	5008946
+Entertainment	4030518
+Music	3980199
+Shopping	2271070
+Health & Fitness	1784371
+Utilities	1702228
+Sports	1599070
+Weather	1597034
+
+6. Take the 10 apps best rated by users.
+Blackwell 5: Epiphany	5
+Bike Traffic Rider an Extreme Real Endless Road Racer Racing Game	5
+Sorcery! 2	5
+Dice Crush	5
+At the Zoo With Grandma and Grandpa	5
+おかんからのメッセ - ほのぼの謎解きゲーム	5
+Galaxy Trucker	5
+AZZL	5
+Slots: Get Rich Slot Machines Casino Slot Games	5
+Pettson's Inventions 3	5
+
+Top 10 user rated apps by genre.
+
+Productivity	4.00561797752809
+Music	3.9782608695652173
+Photo & Video	3.8008595988538683
+Business	3.745614035087719
+Health & Fitness	3.7
+Games	3.6850077679958573
+Weather	3.5972222222222223
+Shopping	3.540983606557377
+Reference	3.453125
+Travel	3.376543209876543
+
+7. Take a look on the data you retrieved in the question 5. Give some insights.
+The two top rated apps are Facebook and Instagram. It correspons to the most rated genres - Social Networking, Photo & Video.
+
+8. Take a look on the data you retrieved in the question 6. Give some insights.
+There are at least 10 apps that users have rated with 5 (highest possible).
+The highest rated genre is 'Productivity' with the average rating 4.00561797752809.
+
+9. Now compare the data from questions 5 and 6. What do you see?
+The most rated genre is Games, however it is only the 6th in the highest rated genre list.
+Productivity, business, reference and travel are inlucded in the top 10 highest rated app genres, however they are not in the list of top 10 most rated apps.
+Highest rated does not mean that it will also be the most rated app.
+
+10. How could you take the top 3 regarding the user ratings but also the number of votes?
+
+11. Does people care about the price? Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?
