@@ -1,3 +1,7 @@
+'''
+L.S. Correct
+'''
+
 1. Which are the different genres?
 SELECT prime_genre
 FROM data
@@ -16,6 +20,10 @@ From data
 Group by prime_genre
 Order by Records DESC
 Limit 1;
+
+'''
+L.S. Good!
+'''
 
 4. Which is the one with less?
 SELECT prime_genre, COUNT(*) AS Records
@@ -44,6 +52,10 @@ FROM data
 GROUP BY track_name, user_rating
 ORDER BY user_rating DESC
 Limit 10;
+
+'''
+L.S. Yes, that\'s correct
+'''
 
 SELECT prime_genre, AVG(user_rating) AS AvgRating
 FROM data
